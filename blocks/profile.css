@@ -87,15 +87,11 @@
       margin: 0;
     }
     .profile__info {
-      grid-template-areas:
-        "title button"
-        "description description";
       grid-template-columns: auto auto;
       row-gap: 10px;
       column-gap: 16px;
       margin: 0;
       text-align: right;
-      align-items: center;
     }
     .profile__title {
       font-size: 22px;
