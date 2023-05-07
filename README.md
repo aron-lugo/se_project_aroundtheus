@@ -18,6 +18,5 @@ This project is made so all the elements are displayed correctly on popular scre
   
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://aron-lugo.github.io/se_project_aroundtheus/), so your project loads faster. 
   
-Good luck and have fun!
 ![Desktop Screenshot 2023 05 07 - 01 34 50 08](https://user-images.githubusercontent.com/127285761/236667076-e577784f-c1a3-4939-b526-d531fe1defd4.png)
 ![Desktop Screenshot 2023 05 07 - 01 32 14 71](https://user-images.githubusercontent.com/127285761/236667081-63e4f9c9-d905-4cfb-a112-d8629a152f45.png)
